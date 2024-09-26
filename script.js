@@ -11,7 +11,7 @@ const el = {
   e: qs('.lttr--E'),
   i: qs('.lttr--Y'),
   l2: qs('.lttr--O2'),
-  kom: qs('.lttr--U'),
+  k: qs('.lttr--U'),
 
   lineLeft: qs('.line--left'),
   lineRight: qs('.line--rght'),

@@ -9,9 +9,9 @@ const el = {
   o: qs('.lttr--O'),
   v: qs('.lttr--V'),
   e: qs('.lttr--E'),
-  i: qs('.lttr--I'),
-  l2: qs('.lttr--L2'),
-  k: qs('.lttr--K'),
+  y: qs('.lttr--Y'),
+  o2: qs('.lttr--O2'),
+  u: qs('.lttr--U'),
 
   lineLeft: qs('.line--left'),
   lineRight: qs('.line--rght'),
